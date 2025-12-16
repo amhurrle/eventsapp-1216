@@ -1,1 +1,2 @@
-# eventsapp-1216
+# eventsappstart
+This is a simple events app
